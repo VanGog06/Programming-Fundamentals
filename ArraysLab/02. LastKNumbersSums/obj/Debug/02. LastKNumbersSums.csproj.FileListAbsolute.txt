@@ -1,0 +1,5 @@
+c:\users\batepepi\documents\visual studio 2015\Projects\ArraysLab\02. LastKNumbersSums\bin\Debug\_02.LastKNumbersSums.exe.config
+c:\users\batepepi\documents\visual studio 2015\Projects\ArraysLab\02. LastKNumbersSums\bin\Debug\_02.LastKNumbersSums.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\ArraysLab\02. LastKNumbersSums\bin\Debug\_02.LastKNumbersSums.pdb
+c:\users\batepepi\documents\visual studio 2015\Projects\ArraysLab\02. LastKNumbersSums\obj\Debug\_02.LastKNumbersSums.exe
+c:\users\batepepi\documents\visual studio 2015\Projects\ArraysLab\02. LastKNumbersSums\obj\Debug\_02.LastKNumbersSums.pdb

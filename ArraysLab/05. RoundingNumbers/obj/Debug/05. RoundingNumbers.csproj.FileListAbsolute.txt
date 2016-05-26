@@ -1,0 +1,5 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\05. RoundingNumbers\bin\Debug\_05.RoundingNumbers.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\05. RoundingNumbers\bin\Debug\_05.RoundingNumbers.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\05. RoundingNumbers\bin\Debug\_05.RoundingNumbers.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\05. RoundingNumbers\obj\Debug\_05.RoundingNumbers.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\05. RoundingNumbers\obj\Debug\_05.RoundingNumbers.pdb

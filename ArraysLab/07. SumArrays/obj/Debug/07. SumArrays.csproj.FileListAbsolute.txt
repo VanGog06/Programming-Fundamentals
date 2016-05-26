@@ -1,0 +1,5 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\07. SumArrays\bin\Debug\_07.SumArrays.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\07. SumArrays\bin\Debug\_07.SumArrays.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\07. SumArrays\bin\Debug\_07.SumArrays.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\07. SumArrays\obj\Debug\_07.SumArrays.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\07. SumArrays\obj\Debug\_07.SumArrays.pdb

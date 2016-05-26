@@ -1,0 +1,5 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\09. ExtractMiddleElements\bin\Debug\_09.ExtractMiddleElements.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\09. ExtractMiddleElements\bin\Debug\_09.ExtractMiddleElements.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\09. ExtractMiddleElements\bin\Debug\_09.ExtractMiddleElements.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\09. ExtractMiddleElements\obj\Debug\_09.ExtractMiddleElements.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\09. ExtractMiddleElements\obj\Debug\_09.ExtractMiddleElements.pdb

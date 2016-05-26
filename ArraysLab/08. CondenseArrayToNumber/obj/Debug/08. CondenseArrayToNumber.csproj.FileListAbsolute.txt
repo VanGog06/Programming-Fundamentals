@@ -1,0 +1,5 @@
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\08. CondenseArrayToNumber\bin\Debug\_08.CondenseArrayToNumber.exe.config
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\08. CondenseArrayToNumber\bin\Debug\_08.CondenseArrayToNumber.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\08. CondenseArrayToNumber\bin\Debug\_08.CondenseArrayToNumber.pdb
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\08. CondenseArrayToNumber\obj\Debug\_08.CondenseArrayToNumber.exe
+C:\Users\BatePepi\documents\visual studio 2015\Projects\ArraysLab\08. CondenseArrayToNumber\obj\Debug\_08.CondenseArrayToNumber.pdb
